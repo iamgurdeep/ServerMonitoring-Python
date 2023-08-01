@@ -1,0 +1,9 @@
+OS:
+  Windows:
+    Services: [notepad.exe,chrome.exe]
+  Unix:
+    Services:
+      JAVA:
+        ProcCount: 1
+      zookeeper:
+        procCount: 2
